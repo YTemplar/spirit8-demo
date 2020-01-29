@@ -175,3 +175,10 @@
         </div>
         </div>
 </section>```
+# Experience 
+### I worked in the IT company "Mad Deva" from 2007 to 2009, I also worked in the company "YODA" for 3 years and have a lot of experience in work.
+# Education 
+### I am studying programming courses at the IT-RUN company,and I am also finishing the 9th grade.
+# English 
+### Advanced 1.
+![Thanks for attention!](/images/milos.png) 
