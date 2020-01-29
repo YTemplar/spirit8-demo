@@ -174,7 +174,8 @@
             </div>
         </div>
         </div>
-</section>```
+</section> 
+```
 # Experience 
 ### I worked in the IT company "Mad Deva" from 2007 to 2009, I also worked in the company "YODA" for 3 years and have a lot of experience in work.
 # Education 
